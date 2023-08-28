@@ -15,7 +15,8 @@ if file:
     img = PILImage.create(file)
 
     #model
-    model = load_learner('/path/to/your/uploaded/model/transport_model (1).pkl')
+    model = load_learner('/Users/bahodiralayorov/Desktop/PYTHON_SCRIPTS/transport/transport_model (1).pkl')
+
 
 
     #prediction
